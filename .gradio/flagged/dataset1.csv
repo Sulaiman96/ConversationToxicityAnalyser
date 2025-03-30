@@ -1,0 +1,10 @@
+Enter conversation text (format: 'User: Message' per line),Or upload a .txt file,Personalize Safer Value (larger value is less safe),Analysis Results,timestamp
+"John: Hello.
+Jane: Hi.
+John: I like your outfit.
+Jane: Thanks, I got it today.
+John. I think your tits fit perfectly in them.",,0.1,"Toxicity Analysis Results:
+
+John: 0.00% average toxicity
+Jane: 0.00% average toxicity
+",2025-03-30 22:01:37.343401
