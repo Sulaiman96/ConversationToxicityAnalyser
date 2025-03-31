@@ -4,7 +4,7 @@ A simple web-based application built with Python and Gradio, designed to analyse
 
 The idea was to build something for gaming companies to use to automate the banning of toxic players who use toxicity within the game chat.
 
-The application utilizes the **Friendly Text Moderation** API hosted on Hugging Face to:
+The application utilises the **Friendly Text Moderation** API hosted on Hugging Face to:
 - Detect toxic messages in conversations.
 - Calculate average toxicity scores for each participant.
 - Identify and display the specific toxicity categories flagged (e.g., harassment, hate speech, sexual content).
@@ -33,7 +33,7 @@ https://huggingface.co/spaces/HeyiTzSully/conversation-toxicity-analyser
 Deployed quickly and easily using Hugging Face Spaces.
 
 ### Future Enhancements:
-- Visualization of results through interactive charts.
+- Visualisation of results through interactive charts.
 - Downloadable reports in PDF or CSV format.
 
 ### License:
