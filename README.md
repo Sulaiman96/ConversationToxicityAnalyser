@@ -2,6 +2,8 @@
 
 A simple web-based application built with Python and Gradio, designed to analyse text conversations and identify toxicity levels of participants. Users can either paste conversation text or upload a `.txt` file containing conversation logs formatted as "User: Message".
 
+The idea was to build something for gaming companies to use to automate the banning of toxic players who use toxicity within the game chat.
+
 The application utilizes the **Friendly Text Moderation** API hosted on Hugging Face to:
 - Detect toxic messages in conversations.
 - Calculate average toxicity scores for each participant.
