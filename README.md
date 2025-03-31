@@ -7,6 +7,9 @@ The application utilizes the **Friendly Text Moderation** API hosted on Hugging 
 - Calculate average toxicity scores for each participant.
 - Identify and display the specific toxicity categories flagged (e.g., harassment, hate speech, sexual content).
 
+### Try the App:
+https://huggingface.co/spaces/HeyiTzSully/conversation-toxicity-analyser
+
 ### Features:
 - Easy-to-use web interface built with Gradio.
 - Customizable toxicity sensitivity using the safer value slider.
